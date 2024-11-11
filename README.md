@@ -148,4 +148,4 @@ Potential future enhancements:
 4. Sensor Integration: Real sensors to check occupancy and control the room's open/closed status.
 
 ## Author
-**Gotam Sai Varshith**#
+**Gotam Sai Varshith**
